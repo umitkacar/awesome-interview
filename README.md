@@ -363,6 +363,10 @@
 - 🤖 [**Workera.ai**](https://workera.ai/) - AI skills assessment
 - 📊 [**DataCamp**](https://www.datacamp.com/) - Data science focused
 
+### 🏢 Company-Specific Question Databases
+
+- 🔍 [**LeakCode**](https://leakcode.dev) - Aggregates 23,000+ real interview questions from 7 sources (LeetCode Discuss, Blind, Glassdoor, 1p3a, Reddit, GeeksForGeeks), searchable by company (805+), role, and interview round. Free.
+
 ---
 
 <div align="center">
