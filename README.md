@@ -344,7 +344,9 @@
 | [**AlgoExpert**](https://www.algoexpert.io/) | $99 | 160+ curated problems | Structured prep | ⭐⭐⭐⭐⭐ |
 | [**AlgoMonster**](https://algo.monster/) | $99 | Pattern recognition | Fast track | ⭐⭐⭐⭐⭐ |
 | [**Educative.io**](https://www.educative.io/) | $199 | Interactive courses | Hands-on learning | ⭐⭐⭐⭐ |
+| [**FrontendAtlas**](https://frontendatlas.com/) | $79 | Frontend coding, debugging & system design | Frontend engineers | — |
 | [**InterviewBit**](https://www.interviewbit.com/) | FREE | Complete prep | Budget option | ⭐⭐⭐⭐ |
+
 
 ### 🎯 Mock Interview Platforms
 
