@@ -542,6 +542,7 @@ ml_interview_topics = {
 
 - 📝 [**Resumake**](https://resumake.io/) - LaTeX resume builder (ATS-friendly)
 - 🎨 [**FlowCV**](https://flowcv.com/) - Modern resume templates
+- 🤖 [**ResumeAI**](https://withresumeai.com/) - Free ATS checker + AI resume builder (3 checks/day without an account)
 - 💼 [**LinkedIn Optimization**](https://www.techinterviewhandbook.org/resume/) - Get noticed by recruiters
 
 ---
