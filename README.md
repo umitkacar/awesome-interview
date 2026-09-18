@@ -354,6 +354,7 @@
 |----------|------|-------|----------|
 | 🎭 [**Pramp (Exponent)**](https://www.tryexponent.com/practice) | Peer-to-peer | FREE (5/month) | AI grading, transcripts |
 | 💼 [**Interviewing.io**](https://interviewing.io/) | Anonymous | Paid | Real engineers from FAANG |
+| 🤝 [**Practick**](https://practick.io/) | Peer-to-peer | FREE | Automatic matching, 474 DSA/system design questions, interviewer guide per question |
 | 🎪 [**TechMockInterview**](https://techmockinterview.com/) | 1-on-1 | Paid | Personalized feedback |
 
 ### 📊 Assessment Platforms
