@@ -345,7 +345,7 @@
 | [**AlgoMonster**](https://algo.monster/) | $99 | Pattern recognition | Fast track | ⭐⭐⭐⭐⭐ |
 | [**Educative.io**](https://www.educative.io/) | $199 | Interactive courses | Hands-on learning | ⭐⭐⭐⭐ |
 | [**InterviewBit**](https://www.interviewbit.com/) | FREE | Complete prep | Budget option | ⭐⭐⭐⭐ |
-
+| [**Luna Interview**](https://lunainterview.xyz/) | 24h free trial, then paid | Notes-based answers | Interview prep | — |
 ### 🎯 Mock Interview Platforms
 
 > **Practice with real people!**
